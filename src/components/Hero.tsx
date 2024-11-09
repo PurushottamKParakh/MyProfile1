@@ -52,7 +52,7 @@ const Hero = () => {
         <div className="relative">
           <div className="aspect-square overflow-hidden rounded-2xl">
             <img
-              src="/profile.jpg"
+              src="/IMG_4351.jpeg"
               alt="Purushottam Dewangan"
               className="w-full h-full object-cover"
             />
